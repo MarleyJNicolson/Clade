@@ -36,6 +36,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9287f07e-efab-48d0-959c-fc207fe0aa2e"
+      }
+    },
+    "owner": "marleynicolson"
   }
 }
